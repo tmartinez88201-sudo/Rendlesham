@@ -1,0 +1,6 @@
+{
+  "name": "The Rendlesham Series",
+  "description": "An immersive, cinematic landing page for the mysterious Rendlesham Series book collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
