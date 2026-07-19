@@ -85,7 +85,7 @@ export default function BookShowcase() {
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   />
                   {/* Subtle hover gradient glow */}
-                  <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-85" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-40 group-hover:opacity-25 transition-opacity duration-300 pointer-events-none" />
                 </div>
 
                 {/* Cover Details */}

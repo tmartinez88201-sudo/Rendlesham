@@ -34,10 +34,10 @@ export const BOOKS_DATA: Book[] = [
   {
     id: "volume-1",
     volume: 1,
-    title: "The Incident at East Gate",
-    subtitle: "The Forest and the Craft",
+    title: "Rendlesham Signals From the Threshold",
+    subtitle: "The Hidden Race for UAP Technology",
     tagline: "The darkness of the woods hides more than just shadows.",
-    coverImage: "/src/assets/images/book1_cover_1784331525333.jpg",
+    coverImage: "/src/assets/images/signals_threshold_cover_v2_1784429118477.jpg",
     colorTheme: "blue",
     accentHex: "#60a5fa",
     releaseDate: "Autumn 2026",
@@ -57,24 +57,24 @@ export const BOOKS_DATA: Book[] = [
   {
     id: "volume-2",
     volume: 2,
-    title: "The Binary Code",
-    subtitle: "Signals from the Void",
-    tagline: "A code locked in the subconscious. A frequency that cannot be silenced.",
-    coverImage: "/src/assets/images/book2_cover_1784331534400.jpg",
+    title: "Project Rendlesham",
+    subtitle: "Crossing the Threshold of Revelation",
+    tagline: "The subconscious code unlocks. The true threshold of contact has been crossed.",
+    coverImage: "/src/assets/images/project_rendlesham_cover_1784429461811.jpg",
     colorTheme: "emerald",
     accentHex: "#34d399",
     releaseDate: "Winter 2026",
     pages: 412,
     classification: "DECLASS_LEVEL_TWO",
-    synopsis: "Four decades after the forest encounter, the binary sequence burned into a young airman's brain begins to unlock. Cryptographers and rogue astrophysicists discover the code contains highly precise global coordinates—pointing to ancient monuments, silent observatories, and deep-ocean trenches. As the signals begin to broadcast simultaneously across the globe, the team must race to decode the final sequence before the sender returns to claim what was left behind.",
-    excerpt: "Zeros and ones. They weren't math; they were coordinates, geometric alignments of monuments we thought were tombs. They are not tombs. They are receivers, and they have just been switched back on.",
+    synopsis: "The ground-breaking sequel investigating the 1980 Rendlesham Forest Incident. John Burroughs and Toby Martinez delve deep into declassified military records, medical evidence, and secret intelligence programs to expose the true scale of the encounter. Rather than a simple sighting, the phenomenon represents a physical and biological transmission. This volume documents the hidden race for advanced UAP technology and the profound spiritual, military, and cosmic implications of crossing the threshold of revelation.",
+    excerpt: "We weren't just witnesses; we were receivers. The physical toll recorded in our military medical files is proof of a biological transmission that bypassed our senses. The government didn't want to hide what we saw—they wanted to hide what we became.",
     coordinates: "30.0131° N, 31.2089° E",
     decodedLocation: "Giza / Altiplano Link",
-    keyThemes: ["Decryption", "Grid Alignments", "Astrophysical Echoes"],
+    keyThemes: ["Declassified Records", "Biological Impact", "Intelligence Programs"],
     metrics: [
-      { label: "Signal Frequency", value: "1420 MHz" },
-      { label: "Data Bit-Length", value: "8,192 bits" },
-      { label: "Decoded Nodes", value: "7 Global Sites" }
+      { label: "Declassified Pages", value: "12,000+" },
+      { label: "Physical Impact", value: "Recorded" },
+      { label: "Document Source", value: "DoD / MoD" }
     ]
   },
   {
