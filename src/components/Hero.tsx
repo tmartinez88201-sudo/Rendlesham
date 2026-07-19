@@ -17,7 +17,7 @@ export default function Hero({ onScrollToTrilogy }: HeroProps) {
           transition={{ duration: 3.5, ease: "easeOut" }}
           className="w-full h-full bg-cover bg-center"
           style={{
-            backgroundImage: `url('/src/assets/images/rendlesham_hero_1784331513265.jpg')`,
+            backgroundImage: `url('/images/rendlesham_hero_1784331513265.jpg')`,
           }}
         />
         {/* Soft, custom glowing atmospheric gradients to create "spectral light" from design spec */}
